@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "logo-swift-outlined.pdf",
+      "filename" : "launch-screen-image.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "launch-screen-image@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "launch-screen-image@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
@@ -17,8 +19,5 @@
   "info" : {
     "author" : "xcode",
     "version" : 1
-  },
-  "properties" : {
-    "preserves-vector-representation" : true
   }
 }
