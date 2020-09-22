@@ -15,6 +15,7 @@
 		AF1D21022519257700C6B243 /* LearnDoingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF1D21012519257700C6B243 /* LearnDoingUITests.swift */; };
 		AF797E27251932C9005C9EDB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF797E26251932C9005C9EDB /* CardView.swift */; };
 		AF797E32251A51A6005C9EDB /* CardModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF797E31251A51A6005C9EDB /* CardModel.swift */; };
+		AF797E37251A526B005C9EDB /* CardData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF797E36251A526B005C9EDB /* CardData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AF1D21032519257700C6B243 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AF797E26251932C9005C9EDB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		AF797E31251A51A6005C9EDB /* CardModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardModel.swift; sourceTree = "<group>"; };
+		AF797E36251A526B005C9EDB /* CardData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				AF1D20E42519257200C6B243 /* LearnDoingApp.swift */,
 				AF1D20E62519257200C6B243 /* ContentView.swift */,
 				AF797E31251A51A6005C9EDB /* CardModel.swift */,
+				AF797E36251A526B005C9EDB /* CardData.swift */,
 				AF797E26251932C9005C9EDB /* CardView.swift */,
 				AF1D20E82519257600C6B243 /* Assets.xcassets */,
 				AF1D20ED2519257600C6B243 /* Info.plist */,
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF797E37251A526B005C9EDB /* CardData.swift in Sources */,
 				AF1D20E72519257200C6B243 /* ContentView.swift in Sources */,
 				AF797E32251A51A6005C9EDB /* CardModel.swift in Sources */,
 				AF797E27251932C9005C9EDB /* CardView.swift in Sources */,
