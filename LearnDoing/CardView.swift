@@ -34,6 +34,33 @@ struct CardView: View {
                     .italic()
             }
             .offset(y: -218)
+            
+            Button(action: {
+                print("Learn")
+            }) {
+                HStack {
+                    Text("Learn".uppercased())
+                        .fontWeight(.heavy)
+                        .foregroundColor(.white)
+                        .accentColor(.white)
+                    
+                    Image(systemName: "arrow.right.circle")
+                        .font(Font.title.weight(.medium))
+                        .accentColor(.white)
+                }
+                .padding(.vertical)
+                .padding(.horizontal, 24)
+                .background(
+                    LinearGradient(
+                        gradient: Gradient(colors: gradient),
+                        startPoint: .leading,
+                        endPoint: .trailing
+                    )
+                )
+                .clipShape(Capsule())
+                .shadow(color: Color("ColorShadow"), radius: 6, x: 0, y: 3)
+            }
+            .offset(y: 210)
         }
         .frame(width: 335, height: 545)
         .background(
