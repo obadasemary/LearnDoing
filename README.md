@@ -15,5 +15,5 @@
 - How to show alerts with SwiftUI.
 - Finally, how to create stickers without writing any code.
 
-<img src="https://github.com/obadasemary/LearnDoing/blob/enhancement/Screenshots/LearnDoing-1.jpg" alt="HTML5 Icon">
-<img src="https://github.com/obadasemary/LearnDoing/blob/enhancement/Screenshots/LearnDoing-2.jpg" alt="HTML5 Icon">
+<img src="https://github.com/obadasemary/LearnDoing/blob/main/Screenshots/LearnDoing-1.jpg" alt="HTML5 Icon">
+<img src="https://github.com/obadasemary/LearnDoing/blob/main/Screenshots/LearnDoing-2.jpg" alt="HTML5 Icon">
